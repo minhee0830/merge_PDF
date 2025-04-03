@@ -26,8 +26,7 @@
 
 > `.app` 파일을 다운받아 실행하면 됩니다.
 
-- [⬇️ macOS용 `.app` 다운로드](hhttps://minheestory.tistory.com)
-블로그에서 다운로드 가능합니다.
+- [⬇️ macOS용 `.app` 다운로드](https://minheestory.tistory.com/23)  
 
 ### 방법 2. Python 코드 직접 실행
 
