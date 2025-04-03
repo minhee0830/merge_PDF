@@ -37,7 +37,7 @@
 ```bash
 pip install PyQt6 PyPDF2
 python merge_pdf_gui.py
-```markdown
+```
 
 ---
 
