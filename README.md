@@ -43,11 +43,12 @@ python merge_pdf_gui.py
 
 ## 📁 프로젝트 구조
 
+```bash
 merge_PDF/
-├── merge_pdf_gui.py       # 메인 실행 파일
-├── README.md              # 설명 문서
-├── screenshot.png         # 프로그램 화면
-
+├── merge_pdf_gui.py    # 메인 실행 파일
+├── README.md           # 설명 문서
+├── screenshot.png      # 프로그램 화면
+```
 
 ---
 
